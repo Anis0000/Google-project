@@ -1,0 +1,51 @@
+#navbar
+{
+	text-align: right;
+}
+#footer
+{
+	position: fixed;
+	bottom: 0px;
+}
+
+#footer
+{
+	width: 100%;
+	background-color: gray;
+	border:1px solid black;
+    padding-left:0px; 
+    padding-bottom: 3px;
+}
+
+ #droite
+ {
+ 	text-align: right;
+ }
+ #navbar
+ {
+ 	display: flex;
+ 	justify-content: flex-end;
+ }
+
+ .premiere
+ {
+ 	margin-right:10px;
+ }
+ .deuxieme
+ {
+ 	margin-right: 10px;
+
+ }
+
+ #
+
+#recherche
+{
+	border: solid 2px green;
+}
+
+ #recherche p
+ {
+ 	margin-top: 60px;
+ 	border:1px solid blue;
+ }
