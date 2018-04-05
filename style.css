@@ -2,11 +2,7 @@
 {
 	text-align: right;
 }
-#footer
-{
-	position: fixed;
-	bottom: 0px;
-}
+
 
 #footer
 {
@@ -15,6 +11,8 @@
 	border:1px solid black;
     padding-left:0px; 
     padding-bottom: 3px;
+    position: fixed;
+	bottom: 0px;
 }
 
  #droite
@@ -37,7 +35,7 @@
 
  }
 
- #
+
 
 #recherche
 {
@@ -49,3 +47,10 @@
  	margin-top: 60px;
  	border:1px solid blue;
  }
+
+ #Here
+ {
+ 	display: block;
+ }
+
+ 
